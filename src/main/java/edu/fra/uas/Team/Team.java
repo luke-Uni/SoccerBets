@@ -18,7 +18,6 @@ public class Team {
 		double factor = 0;
 		factor = (1 + (this.currentForm / 10));
 		this.powerLvl = basicPower * factor;
-
 	}
 
 	public String getName() {
