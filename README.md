@@ -1,5 +1,7 @@
 ﻿# SoccerBets
  
+ This project is a betting system developed as a RESTful-Server.
+ 
 - Soccerbets is a betting system where it is possible to bet money on fantasy soccer teams.
 - The games/events are simulated by the system.
 - The results of the events are not realistic, because it is fantasy soccer.
