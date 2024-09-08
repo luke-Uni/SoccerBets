@@ -33,14 +33,14 @@ SoccerBets is a fantasy soccer betting system where users can bet money on simul
    ```
    
 2. Build the project using Maven:
-```bash
-mvn clean install
-```
+   ```bash
+   mvn clean install
+   ```
 
 3. Run the project:
-```bash
-mvn spring-boot:run
-```
+   ```bash
+   mvn spring-boot:run
+   ```
 
 4. Access the API: The API will be accessible at http://localhost:8080/
 
