@@ -30,9 +30,8 @@ SoccerBets is a fantasy soccer betting system where users can bet money on simul
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd <repository-directory>
-```
-
+   ```
+   
 2. Build the project using Maven:
 ```bash
 mvn clean install
